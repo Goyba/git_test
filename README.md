@@ -1,3 +1,1 @@
-# git_test
-My first GitHub repo!
-Hello Odin!
+This is the beginning of my journey making websites and eventually a career into Software Development.
